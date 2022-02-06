@@ -1,0 +1,40 @@
+* {
+	margin:1;
+	padding:0;
+}
+
+/* fondo */
+body {
+	background:url(Recursos/fondo.jpg);
+	color:#fff;
+	background-attachment:fixed; 
+}
+/* fin fondo */
+
+/* Logo de Weekend 1.6 */
+.banner{
+    width:100%;
+    max-width:400px;
+}
+/* fin del logo */
+
+/*mollie.jpg */
+
+.mollie { 
+	width:50%;
+	max-width:500px;
+
+ }
+
+ /* fin mollie.jpg */
+
+/* informacion del evento: */
+.infoevento{
+
+text-align:left;
+font-size:1em;
+width:60%;
+margin:0px;
+padding:0px;
+}
+/* fin de informacion del evento */
